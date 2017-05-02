@@ -1,0 +1,29 @@
+{
+  "name": "basic-html-site",
+  "version": "0.1.0",
+  "description": "bootstrap html site",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dreboard/basic_html"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "css"
+  ],
+  "contributors": [
+    "Andre Board"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "git://github.com/dreboard/basic_html"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2"
+  }
+}
