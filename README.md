@@ -1,6 +1,6 @@
 # Basic HTML Frontend
 
-A basic front end starter repo with SASS and javascript 
+A basic front end starter repo with Bootstrap 3 SASS 
 
 * Install nodejs
 * Uses GULP as package manager
